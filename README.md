@@ -1,3 +1,5 @@
+![Alt text for the image](eTOW2G0o.jpeg)
+
 # Smart Renewable Energy Management System for Tunisia (SREMS-TN)
 ## Technical Implementation Report
 
