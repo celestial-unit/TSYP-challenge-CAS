@@ -632,7 +632,3 @@ Security assessment and vulnerability analysis results
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** November 2024  
-**Authors:** SREMS-TN Development Team  
-**Classification:** Technical Implementation Report
