@@ -1,0 +1,38 @@
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic[email]==2.5.3
+pydantic-settings==2.1.0
+
+# Database
+motor==3.3.2
+pymongo==4.6.1
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2
+python-multipart==0.0.6
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# SMS Services (choose one or both)
+twilio==8.11.0
+# infobip-api-python-sdk==3.1.3  # Uncomment if using Infobip
+
+# Date & Time
+python-dateutil==2.8.2
+
+# HTTP Requests
+httpx==0.26.0
+
+# AI/ML Dependencies
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==2.0.3
+joblib==1.3.2
+
+# Development & Testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.23.3

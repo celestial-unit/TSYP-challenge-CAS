@@ -1,0 +1,50 @@
+# Jupyter Notebooks (development/research files)
+*.ipynb
+*.ipynb_checkpoints/
+
+# Dataset files (can be large and not needed in repo)
+*.csv
+*.xlsx
+*.xls
+dataset_*.csv
+
+# Log files
+*.log
+frontend.log
+backend.log
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Node modules and build files
+node_modules/
+.next/
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF files (documentation should be in markdown)
+*.pdf
+
+# Temporary and backup files
+*~
+*.tmp
+*.bak
